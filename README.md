@@ -6,8 +6,8 @@ This project is a Spring Boot application that integrates DeepSeek, Ollama, and 
 
 This project contains two main APIs:
 
-1. **Non-Streaming API**: A standard API that processes data and returns a response without streaming.
-2. **Streaming API**: An API that processes and streams data in real-time to the client.
+1. **Non-Streaming API**: A standard API that processes data and returns a response without streaming. // http://127.0.0.1:1773/api/v1/ai/?query=What is spring
+2. **Streaming API**: An API that processes and streams data in real-time to the client. // http://127.0.0.1:1773/api/v1/ai/stream?query=what is springboot
 
 The project utilizes Spring Boot as the backend framework, DeepSeek for advanced AI functionalities, Ollama for language models, and Spring AI to facilitate integration with machine learning models.
 
