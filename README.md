@@ -41,13 +41,9 @@ Before running the project, make sure you have the following installed:
 ### Steps to Run the Project Locally
 
 1. **Clone the repository:**
-   ```bash
-   git clone 
-   cd OllaMind
+   git clone https://github.com/APPPYYY/OllaMind.git
 
-2.Build the project:
-mvn clean install
+2.Build the project
 
-3.Run the Spring Boot application:
-mvn spring-boot:run
+3.Run the Spring Boot application
 
