@@ -36,7 +36,7 @@ Before running the project, make sure you have the following installed:
 - [Java 17+] (or higher)
 - [Maven]
 - [Git]
-- [Ollama](https://ollama.com/download) (Install ollama and download deepseek model bu running cmd: ollama run deepseek-r1)
+- [Ollama](https://ollama.com/download) (Install ollama and download deepseek model by running cmd: ollama run deepseek-r1)
 
 ### Steps to Run the Project Locally
 
